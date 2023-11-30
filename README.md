@@ -1,6 +1,6 @@
-# ENTER TITLE OF PROJECT HERE
+# ML - Housing Prices Prediction Model
 
-Enter basic description of project here in 1-2 sentences.
+This model utilizes machine learning to predict the pricing of houses. The pricing depends on five variables: size, number of bedrooms, number of bathrooms, location of the neighborhood, and the year it was built.
 
 ## TOC
 
@@ -16,7 +16,7 @@ Enter basic description of project here in 1-2 sentences.
 ```
 |__ data
     |__ .keep
-    |__ original-dataset.csv
+    |__ housing_price_dataset.csv
     |__ processed-dataset.csv
 |__ figures
     |__ .keep
