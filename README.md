@@ -7,6 +7,10 @@ This model utilizes machine learning to predict the pricing of houses. The prici
 1. `data`: Add all data sets in this folder.
 2. `models`: Save all model files `.pkl` in here with the `pickle` module
 
+## Project Timeline
+
+<img src="gantt-chart.png" style="width:100%" />
+
 ## Style Guide
 
 **Filenaming**: Be sure to use all lowercase lettering and hyphens in between all words.
