@@ -20,9 +20,9 @@ This model utilizes machine learning to predict the pricing of houses. The prici
     |__ processed-dataset.csv
 |__ figures
     |__ .keep
-    |__ eda-distribution-dates.png
-    |__ eda-distribution-headline-word-count.png
-    |__ fp-tp-heatmap.png
+    |__ clean-overall-data.png
+    |__ clean-price-dist.png
+    |__ price-dist.png
     |__ ...
 |__ models
     |__ .keep
