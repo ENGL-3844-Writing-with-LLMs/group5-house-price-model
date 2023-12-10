@@ -26,9 +26,9 @@ This model utilizes machine learning to predict the pricing of houses. The prici
     |__ ...
 |__ models
     |__ .keep
-    |__ trained-model-1.pkl
-    |__ trained-model-2.pkl
-    |__ ...
+    |__ house_price_model1.pkl
+    |__ house_price_model2.pkl
+    |__ house_price_model3.pkl
 |__ cleaning-and-eda.ipynb
 |__ ml-project-name-here.ipynb
 |__ model-card.pdf
