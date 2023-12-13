@@ -32,6 +32,7 @@ This model utilizes machine learning to predict the pricing of houses. The prici
 |__ cleaning-and-eda.ipynb
 |__ ml-project-name-here.ipynb
 |__ model-card.pdf
+|__ datasheet.pdf
 |__ reflective-memo.pdf
 |__ README.md
 ```
